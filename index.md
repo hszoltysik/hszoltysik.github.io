@@ -40,5 +40,16 @@
     
     First level support
 
+### LANGUAGES
 
+    * Polish - mother tongue
+    * English - fluent
+    * Czech - fluent
+    * French - fluent
+    * Italian - intermediate
 
+### EDUCATION
+
+    * Master degree - Czech philology, University of Wroclaw, Poland, 2014
+    * Erasmus program - Czech philology, Charles University, Prague, Czech Republic, 2012
+    * Bilingual baccalaureate - French, Wroclaw, Poland, 2007
